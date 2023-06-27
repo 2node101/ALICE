@@ -1,0 +1,3 @@
+Docker restart muon-node
+Docker restart mongo
+Docker restart redis
